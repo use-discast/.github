@@ -1,4 +1,4 @@
-<img src="nikoidot-banner.png"/>
+<img src="discast-banner.png"/>
 
 <div align="center">
   <h1>Discast</h1>
