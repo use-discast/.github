@@ -10,6 +10,6 @@
   <hr/>
 </div>
 
-A podcast software powered by @discord.
+A podcast software powered by <a href="https://discord.com">@discord.</a>
 
 Discast is a podcast software powered by discord where you can edit elements and stream your own podcast to twitch or youtube easily. Made to be customizable and simple to use.
